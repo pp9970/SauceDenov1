@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SauceDemoRegressionSuite">
+  <test thread-count="2" name="Test">
+<parameter name="browserName" value="chrome" ></parameter>
+    <classes>
+      <!--class name="com.SauceDemo.TestClasses.TCAllTestCasesInOneClass"/-->
+      <!--class name="com.SauceDemo.TestClasses.TC03VerifyPdouctSelected"/-->
+      <class name="com.SauceDemo.TestClasses.TC01LoginFunctionality"/>
+      <!--class name="com.SauceDemo.TestClasses.TC06LogoutFunctionality"/-->
+      <class name="com.SauceDemo.TestClasses.TC04VerifyMultipleProductAddedToCart"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- SauceDemoRegressionSuite -->

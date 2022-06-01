@@ -1,0 +1,26 @@
+2022-05-29 15:13:59,186  INFO [main] SauceDemoV1:47 - Browser open
+2022-05-29 15:14:01,376  INFO [main] SauceDemoV1:51 - URL open
+2022-05-29 15:14:02,023  INFO [main] SauceDemoV1:57 - username sends
+2022-05-29 15:14:02,221  INFO [main] SauceDemoV1:61 - password sends
+2022-05-29 15:14:02,412  INFO [main] SauceDemoV1:64 - clicked on login button
+2022-05-29 15:14:05,227  INFO [main] SauceDemoV1:47 - Browser open
+2022-05-29 15:14:07,130  INFO [main] SauceDemoV1:51 - URL open
+2022-05-29 15:14:07,464  INFO [main] SauceDemoV1:57 - username sends
+2022-05-29 15:14:07,576  INFO [main] SauceDemoV1:61 - password sends
+2022-05-29 15:14:07,717  INFO [main] SauceDemoV1:64 - clicked on login button
+2022-05-29 15:14:11,235  INFO [main] SauceDemoV1:35 - All product is added to cart
+2022-05-29 15:14:11,235  INFO [main] SauceDemoV1:37 - Apply the validation
+2022-05-31 14:51:05,380  INFO [main] SauceDemoV1:47 - Browser open
+2022-05-31 14:51:07,582  INFO [main] SauceDemoV1:47 - Browser open
+2022-05-31 14:51:35,749  INFO [main] SauceDemoV1:47 - Browser open
+2022-05-31 14:51:37,914  INFO [main] SauceDemoV1:51 - URL open
+2022-05-31 14:51:38,378  INFO [main] SauceDemoV1:57 - username sends
+2022-05-31 14:51:38,493  INFO [main] SauceDemoV1:61 - password sends
+2022-05-31 14:51:38,663  INFO [main] SauceDemoV1:64 - clicked on login button
+2022-05-31 14:51:40,999  INFO [main] SauceDemoV1:47 - Browser open
+2022-05-31 14:51:42,483  INFO [main] SauceDemoV1:51 - URL open
+2022-05-31 14:51:42,796  INFO [main] SauceDemoV1:57 - username sends
+2022-05-31 14:51:42,908  INFO [main] SauceDemoV1:61 - password sends
+2022-05-31 14:51:43,032  INFO [main] SauceDemoV1:64 - clicked on login button
+2022-05-31 14:51:46,625  INFO [main] SauceDemoV1:35 - All product is added to cart
+2022-05-31 14:51:46,625  INFO [main] SauceDemoV1:37 - Apply the validation

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-31T14:51:32 IST" name="SauceDemoRegressionSuite" finished-at="2022-05-31T14:51:47 IST" duration-ms="14613">
+    <groups>
+    </groups>
+    <test started-at="2022-05-31T14:51:32 IST" name="Test" finished-at="2022-05-31T14:51:47 IST" duration-ms="14613">
+      <class name="com.SauceDemo.TestClasses.TC01LoginFunctionality">
+        <test-method is-config="true" signature="setup1(java.lang.String)[pri:0, instance:com.SauceDemo.TestClasses.TC01LoginFunctionality@1e683a3e]" started-at="2022-05-31T14:51:32 IST" name="setup1" finished-at="2022-05-31T14:51:38 IST" duration-ms="5980" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method signature="logininfunctionality()[pri:0, instance:com.SauceDemo.TestClasses.TC01LoginFunctionality@1e683a3e]" started-at="2022-05-31T14:51:38 IST" name="logininfunctionality" finished-at="2022-05-31T14:51:39 IST" duration-ms="600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logininfunctionality -->
+        <test-method is-config="true" signature="tearDown1()[pri:0, instance:com.SauceDemo.TestClasses.TC01LoginFunctionality@1e683a3e]" started-at="2022-05-31T14:51:39 IST" name="tearDown1" finished-at="2022-05-31T14:51:40 IST" duration-ms="747" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown1 -->
+      </class> <!-- com.SauceDemo.TestClasses.TC01LoginFunctionality -->
+      <class name="com.SauceDemo.TestClasses.TC04VerifyMultipleProductAddedToCart">
+        <test-method is-config="true" signature="setup1(java.lang.String)[pri:0, instance:com.SauceDemo.TestClasses.TC04VerifyMultipleProductAddedToCart@614ca7df]" started-at="2022-05-31T14:51:40 IST" name="setup1" finished-at="2022-05-31T14:51:43 IST" duration-ms="3011" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method signature="verifyMultiProductAddToCart()[pri:0, instance:com.SauceDemo.TestClasses.TC04VerifyMultipleProductAddedToCart@614ca7df]" started-at="2022-05-31T14:51:43 IST" name="verifyMultiProductAddToCart" finished-at="2022-05-31T14:51:46 IST" duration-ms="3623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMultiProductAddToCart -->
+        <test-method is-config="true" signature="tearDown1()[pri:0, instance:com.SauceDemo.TestClasses.TC04VerifyMultipleProductAddedToCart@614ca7df]" started-at="2022-05-31T14:51:46 IST" name="tearDown1" finished-at="2022-05-31T14:51:47 IST" duration-ms="603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown1 -->
+      </class> <!-- com.SauceDemo.TestClasses.TC04VerifyMultipleProductAddedToCart -->
+    </test> <!-- Test -->
+  </suite> <!-- SauceDemoRegressionSuite -->
+</testng-results>
